@@ -29,7 +29,7 @@ def last_evaluated_value
 
 end
 
-def pizza_party(toppings = "cheese")
- puts toppings
+def pizza_party("cheese")
+ puts "cheese"
   
 end
