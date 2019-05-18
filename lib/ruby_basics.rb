@@ -14,7 +14,7 @@ end
 
 def greeting( greeting, name)
   puts "#{greeting}, #{name}"
-  return "#{greeting}, "
+  "#{greeting}, "
 
 end
 
