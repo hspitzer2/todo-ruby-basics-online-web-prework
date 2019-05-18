@@ -30,7 +30,7 @@ def last_evaluated_value
 end
 
 def pizza_party(toppings= "cheese")
-    pizza_party = toppings
+    pizza_party == toppings
     returns " Who wants #{toppings}?"
   
 end
